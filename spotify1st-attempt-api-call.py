@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import requests
 from dotenv import load_dotenv
 import os
@@ -43,4 +44,6 @@ print(artist_info)
 
 
 
+=======
+>>>>>>> 0b45e8c341500c333cc00d3b7f15689720691b6c
 
